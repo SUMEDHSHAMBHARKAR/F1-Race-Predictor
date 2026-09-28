@@ -1,7 +1,7 @@
 # Ignore environment variable files
-.env
-.env.local
-.env.*.local
+.venv
+.venv.local
+.venv.*.local
 
 # Do NOT ignore the example file (safe to commit as a template)
-!.env.example
+!.venv.example
